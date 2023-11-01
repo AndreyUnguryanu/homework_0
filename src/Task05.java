@@ -102,6 +102,7 @@ public class Task05 {
         }
         System.out.println("Знак: " + zodiacSign);
         System.out.println("Год: " + zodiacGod);
-        }
-        }
+        System.out.println();
+    }
+}
 
