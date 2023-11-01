@@ -15,6 +15,5 @@ public class Task06 {
             daysInYear = 365;
         }
         System.out.println("В году " + year + " " + daysInYear + "Дней.");
-
-        }
+     }
     }
