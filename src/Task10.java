@@ -11,5 +11,6 @@ public class Task10 {
         var etag = (number + 3 ) / 4;
         System.out.println("podezd " + podezd);
         System.out.println("etag " + etag);
+        System.out.println();
     }
 }
