@@ -27,6 +27,7 @@ public class Task09 {
 
             } else {
                 System.out.println("Отрезок является спуском.");
+                System.out.println();
             }
         }
     }
